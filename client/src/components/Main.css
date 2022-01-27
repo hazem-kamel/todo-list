@@ -1,0 +1,8 @@
+.mainCard{
+    padding: 12px;
+    background-color: #fafafa !important;
+}
+#nested-list-subheader{
+    text-align: left;
+    font-weight: bold;
+}
