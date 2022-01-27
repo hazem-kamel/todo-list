@@ -11,5 +11,5 @@
 
 ### Preview
 <br/>
-![Alt text](previewing.gif)
+![Alt text](https://github.com/hazem-kamel/todo-list/blob/master/previewing.gif)
 <br/>
