@@ -11,5 +11,5 @@
 
 ### Preview
 <br/>
-![Alt text](gif.gif)
+![Alt text](previewing.gif)
 <br/>
