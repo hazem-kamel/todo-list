@@ -11,5 +11,5 @@
 
 ### Preview
 <br/>
-![Alt Text](https://github.com/hazem-kamel/todo-list/blob/master/previewing.gif)
+![alt-text](https://github.com/hazem-kamel/todo-list/blob/master/previewing.gif)
 <br/>
